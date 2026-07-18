@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=760693,RESOLUTION=1280x720
+https://raw.githubusercontent.com/Jhelly7/compiled08/job-avatar-s02-ep03-b3/avatar-s02-ep03-b3/hls/index.m3u8
